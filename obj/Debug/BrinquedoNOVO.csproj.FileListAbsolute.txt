@@ -1,0 +1,12 @@
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\bin\Debug\BrinquedoNOVO.exe.config
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\bin\Debug\BrinquedoNOVO.exe
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\bin\Debug\BrinquedoNOVO.pdb
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.Form1.resources
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.Properties.Resources.resources
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.csproj.GenerateResource.cache
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.exe
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.pdb
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.Form2.resources
+C:\Users\Unifafibe\source\repos\BrinquedoNOVO\obj\Debug\BrinquedoNOVO.Form3.resources
